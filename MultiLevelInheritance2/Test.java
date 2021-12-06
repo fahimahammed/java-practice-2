@@ -1,10 +1,6 @@
 
 package MultiLevelInheritance2;
 
-/**
- *
- * @author Fahim
- */
 public class Test {
     public static void main(String[] args) {
         Teacher t1 = new Teacher();
@@ -21,5 +17,6 @@ public class Test {
         t2.age = 20;
         t2.result = "A+";
         t2.show1();
+        t2.print();
     }
 }
