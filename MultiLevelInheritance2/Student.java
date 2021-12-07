@@ -1,15 +1,11 @@
 
 package MultiLevelInheritance2;
 
-/**
- *
- * @author Fahim
- */
 public class Student extends Person{
     String result;
     
     void show1(){
-        System.out.println("Student's Information: ");
+        System.out.println("Student's Information: a");
         show();
         System.out.println("Result: "+result);
     }
