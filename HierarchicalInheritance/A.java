@@ -1,12 +1,8 @@
 
 package HierarchicalInheritance;
 
-/**
- *
- * @author Fahim
- */
 public class A {
     void fly(){
-        System.out.println("Birds are fly.");
+        System.out.println("dog are run.");
     }
 }

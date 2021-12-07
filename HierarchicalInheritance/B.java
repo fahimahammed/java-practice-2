@@ -7,6 +7,6 @@ package HierarchicalInheritance;
  */
 public class B extends A{
     void eat(){
-        System.out.println("Parrot eats fruits.");
+        System.out.println("Parrot eats misty.");
     }
 }
