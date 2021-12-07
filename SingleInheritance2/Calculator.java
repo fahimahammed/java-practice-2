@@ -1,7 +1,7 @@
 
 package SingleInheritance2;
 
-public class Calculator 007{
+public class Calculator 1234{
     float a, b;
     
     public void Add(){
